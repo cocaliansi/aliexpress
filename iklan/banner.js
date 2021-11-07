@@ -1,2 +1,10 @@
-<script async="async" data-cfasync="false" src="//cheapenleaving.com/9e82d7d6dfcb2522fc8d8af078ed1e4b/invoke.js"></script>
-<div id="container-9e82d7d6dfcb2522fc8d8af078ed1e4b"></div>
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'a4c5fe443ee2184d2ed9510b7c536c61',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://cheapenleaving.com/a4c5fe443ee2184d2ed9510b7c536c61/invoke.js"></scr' + 'ipt>');
+</script>
